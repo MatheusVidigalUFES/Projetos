@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAX 50
-
+/* PROGRAMA BÁSICO PARA BANCO DE DADOS */
 typedef struct {
     char Nome[50];
     int Idade;
